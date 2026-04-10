@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SkyCast</string>
+    <string name="weather_air_quality">Weather and air quality in one place</string>
+    <string name="search_city">Search city</string>
+    <string name="search">Search</string>
+    <string name="change_language">မြန်/EN</string>
+    <string name="air_quality">Air Quality</string>
+    <string name="forecast">Forecast</string>
+    <string name="enter_city">Please enter a city name</string>
+    <string name="failed_load">Failed to load weather data</string>
+    <string name="feels_like_value">Feels like: %1$s°C</string>
+    <string name="humidity_value">Humidity: %1$s%%</string>
+    <string name="wind_value">Wind: %1$s m/s</string>
+    <string name="pressure_value">Pressure: %1$s hPa</string>
+    <string name="air_quality_value">AQI: %1$s</string>
+    <string name="pm25_value">PM2.5: %1$s</string>
+    <string name="pm10_value">PM10: %1$s</string>
+    <string name="aqi_good">Good</string>
+    <string name="aqi_fair">Fair</string>
+    <string name="aqi_moderate">Moderate</string>
+    <string name="aqi_poor">Poor</string>
+    <string name="aqi_very_poor">Very Poor</string>
+    <string name="unknown">Unknown</string>
+</resources>
