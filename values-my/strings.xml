@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SkyCast</string>
+    <string name="weather_air_quality">ရာသီဥတုနှင့် လေထုအရည်အသွေးကို တစ်နေရာတည်းတွင်</string>
+    <string name="search_city">မြို့ကို ရှာဖွေပါ</string>
+    <string name="search">ရှာဖွေမည်</string>
+    <string name="change_language">မြန်/EN</string>
+    <string name="air_quality">လေထုအရည်အသွေး</string>
+    <string name="forecast">ခန့်မှန်းချက်</string>
+    <string name="enter_city">မြို့အမည် ထည့်ပါ</string>
+    <string name="failed_load">ရာသီဥတုဒေတာ ရယူ၍ မရပါ</string>
+    <string name="feels_like_value">ခံစားရသောအပူချိန်: %1$s°C</string>
+    <string name="humidity_value">စိုထိုင်းဆ: %1$s%%</string>
+    <string name="wind_value">လေတိုက်နှုန်း: %1$s m/s</string>
+    <string name="pressure_value">ဖိအား: %1$s hPa</string>
+    <string name="air_quality_value">AQI: %1$s</string>
+    <string name="pm25_value">PM2.5: %1$s</string>
+    <string name="pm10_value">PM10: %1$s</string>
+    <string name="aqi_good">ကောင်း</string>
+    <string name="aqi_fair">သင့်တင့်</string>
+    <string name="aqi_moderate">အလတ်စား</string>
+    <string name="aqi_poor">မကောင်း</string>
+    <string name="aqi_very_poor">အလွန်မကောင်း</string>
+    <string name="unknown">မသိ</string>
+</resources>
